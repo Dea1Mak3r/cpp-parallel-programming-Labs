@@ -8,7 +8,7 @@
 using namespace std;
 
 
-void main(int argc, char* argv[]) {
+/*void main(int argc, char* argv[]) {
 
     long long charToStart = stoll(argv[1]);
     long long charToEnd = stoll(argv[2]);
@@ -74,4 +74,4 @@ void main(int argc, char* argv[]) {
     std::cout << "\n\nВремя выполнения: " << elapsed_ms.count() << " ms\n";
 
     system("pause");
-}
+}*/
